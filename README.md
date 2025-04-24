@@ -19,3 +19,9 @@ I do research on some of my own topics on athletic training and second language 
 On github I would like to be able to document my learning and create some of my own programs.
 
 Welcome everyone to work with me on some interesting projects.
+
+## ⏱ Coding Time Record （2025/04/24~）
+
+<!--START_SECTION:waka-->
+这里将自动插入编程时间
+<!--END_SECTION:waka-->
