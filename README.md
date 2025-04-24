@@ -22,6 +22,14 @@ Welcome everyone to work with me on some interesting projects.
 
 ## ⏱ Coding Time Record （2025/04/24~）
 
-<!--START_SECTION:waka-->
-这里将自动插入编程时间
-<!--END_SECTION:waka-->
+⏱️ 累计编程时间：
+
+<!--START_TOTAL-->
+这里会显示累计时间
+<!--END_TOTAL-->
+
+## 📈 Daily Trend
+
+<!--START_TREND-->
+这里会显示每日趋势图表
+<!--END_TREND-->
