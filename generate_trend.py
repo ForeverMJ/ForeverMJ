@@ -10,7 +10,12 @@ def fetch_summary(start, end):
     url = "https://wakatime.com/api/v1/users/current/summaries"
     params = {"start": start, "end": end}
     response = requests.get(url, headers=headers, auth=auth, params=params)
-    return response.json()["data"]
+
+    if response.status_code != 200:
+        print("❌ WakaTime API error:", response.status_code, response.text)
+        return []
+
+    return response.json().get("data", [])
 
 def format_bar(hours):
     units = int(min(hours, 10))
