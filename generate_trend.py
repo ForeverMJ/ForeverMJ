@@ -41,7 +41,7 @@ def generate_total(data):
 if __name__ == "__main__":
     today = datetime.utcnow().date()
     week_ago = today - timedelta(days=6)
-    all_time_start = "2020-01-01"
+    all_time_start = "2025-04-01"
 
     week_data = fetch_summary(week_ago.isoformat(), today.isoformat())
     all_data = fetch_summary(all_time_start, today.isoformat())
