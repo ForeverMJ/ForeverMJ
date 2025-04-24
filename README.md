@@ -20,16 +20,14 @@ On github I would like to be able to document my learning and create some of my 
 
 Welcome everyone to work with me on some interesting projects.
 
-## ⏱ Coding Time Record （2025/04/24~）
+## 
 
-⏱️ 累计编程时间：
+# 👋 Welcome to My Coding World
 
-<!--START_TOTAL-->
-这里会显示累计时间
-<!--END_TOTAL-->
+## 🧑‍💻 ⏱ Coding Time Record （2025/04/24~）
 
-## 📈 Daily Trend
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-<!--START_TREND-->
-这里会显示每日趋势图表
-<!--END_TREND-->
+<!--START_SECTION:total-->
+<!--END_SECTION:total-->
