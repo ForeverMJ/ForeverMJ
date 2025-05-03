@@ -29,13 +29,13 @@ Welcome everyone to work with me on some interesting projects.
 <!--START_SECTION:waka-->
 ## 📈 Weekly Coding Trend
 
-- `2025-04-26`: 2 hrs 20 mins
 - `2025-04-27`: 1 hr 28 mins
 - `2025-04-28`: 1 hr 6 mins
 - `2025-04-29`: 2 hrs 6 mins
 - `2025-04-30`: 53 mins
-- `2025-05-01`: 52 mins
+- `2025-05-01`: 2 hrs 2 mins
 - `2025-05-02`: 0 secs
+- `2025-05-03`: 0 secs
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:total-->
