@@ -34,12 +34,12 @@ Welcome everyone to work with me on some interesting projects.
 - `2025-05-23`: 0 secs
 - `2025-05-24`: 0 secs
 - `2025-05-25`: 0 secs
-- `2025-05-26`: 0 secs
-- `2025-05-27`: 0 secs
+- `2025-05-26`: 17 mins
+- `2025-05-27`: 21 mins
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:total-->
 ## ⏱️ Total Coding Time
 
-**0 hours 46 minutes**
+**1 hours 26 minutes**
 <!--END_SECTION:total-->
