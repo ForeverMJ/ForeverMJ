@@ -29,17 +29,17 @@ Welcome everyone to work with me on some interesting projects.
 <!--START_SECTION:waka-->
 ## 📈 Weekly Coding Trend
 
-- `2025-10-11`: 1 hr 14 mins
 - `2025-10-12`: 2 hrs 41 mins
 - `2025-10-13`: 1 hr 18 mins
 - `2025-10-14`: 0 secs
 - `2025-10-15`: 1 hr 19 mins
-- `2025-10-16`: 24 mins
-- `2025-10-17`: 0 secs
+- `2025-10-16`: 25 mins
+- `2025-10-17`: 8 mins
+- `2025-10-18`: 0 secs
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:total-->
 ## ⏱️ Total Coding Time
 
-**0 hours 0 minutes**
+**0 hours 8 minutes**
 <!--END_SECTION:total-->
