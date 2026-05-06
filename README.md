@@ -20,6 +20,8 @@ On github I would like to be able to document my learning and create some of my 
 
 Welcome everyone to work with me on some interesting projects.
 
+# But now i'm ALL IN ON AI.
+
 ## 
 
 # 👋 Welcome to My Coding World
