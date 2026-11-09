@@ -1,32 +1,21 @@
-- 👋 Hi, I’m @ForeverMJ ，also call me Tao
-- 👀 I’m interested in tech and sports
-- 🌱 I’m currently working as a software Engineer
-- 💞️ I’m looking to collaborate on project about AI Agent or LLM
-- 📫 How to reach me -> my email:  mj199607@gmail.com
+### Hi, I'm Tao 👋
 
-<!---
-ForeverMJ/ForeverMJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-I graduated from a Chinese university with a bachelor's degree and worked in a Chinese software company for 2 year and a half.
-Now i'am in Japan,I'am learning Japanese and work in Japan.
+Graduate student at **Rikkyo University** (AI and Science), working on **LLM multi-agent systems** and **automated program repair**.
+Before that, ~6 years building finance / securities / telecom systems in Java & Spring.
 
-I like to read all kinds of books, I read more than 100 books every year，
-the topics of the books are about education, learning, business, psychology, physics, computers, etc.
+I'm interested in long-running agents that keep a **verifier inside the loop**: nothing counts as done until the checker agrees.
 
-I do research on some of my own topics on athletic training and second language acquisition.
+🌐 **Homepage:** [forevermj.github.io](https://forevermj.github.io) (日本語 / English / 中文)
 
-On github I would like to be able to document my learning and create some of my own programs.
+#### Featured
 
-Welcome everyone to work with me on some interesting projects.
+| Project | What it is |
+|---|---|
+| [boulder-swarm](https://github.com/ForeverMJ/boulder-swarm) | Goal-driven multi-agent system for long-horizon work, with deterministic checkers and an auto-reverting merge gate |
+| [agent-baton](https://github.com/ForeverMJ/agent-baton) | One local memory shared by Claude Code, Codex and opencode |
+| [THEMIS](https://github.com/ForeverMJ/THEMIS) | Stage-aware LLM program repair that externalizes requirement-to-repair traces ([EMNLP 2026 ReALM Workshop](https://aclanthology.org/2026.realm-1.30/)) |
 
-# But now i'm ALL IN ON AI.
-
-## 
-
-# 👋 Welcome to My Coding World
-
-## 🧑‍💻 ⏱ Coding Time Record （2025/04/24~）
+📫 26vr047w@rikkyo.ac.jp · mj199607@gmail.com · [X @Tao199607](https://x.com/Tao199607)
 
 <!--START_SECTION:waka-->
 ## 📈 Weekly Coding Trend
